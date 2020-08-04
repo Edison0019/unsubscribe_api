@@ -79,9 +79,4 @@ def application():
         return render_template('home.html')
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     app.run(host='0.0.0.0')
-=======
-    app.run(host='0.0.0.0')
-
->>>>>>> 045aafd8f8f9e3a91aeb4c242208bc0f1c1d30d1
